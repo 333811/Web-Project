@@ -11,7 +11,7 @@ An online e-commerce website for beauty items. Customers can view, add, update a
 
 ## Website layout
 
-LAnding page
+Landing page
 ![landing page](https://github.com/Pisceszaiby/Web-Project/blob/main/landing%20page.png)
 
 Best Sellers
